@@ -1,0 +1,21 @@
+
+#Task 
+
+you are assigned a task  o create a simple landing page for invoice application.you would be needed to implement a few functionalities. There should be an input field to pass the information of the buyer (name, email, phone number, and address) and these information should be display in the invoice section.in addition , there should be a table for the invoice section. he following headers of the row name ,price , quantity , price  and total filed should be present. 
+
+
+when the  user  would share the information of the products, this information should be displayed in the rows of the table . you should use input fields to take the input of the product name ,price  and quantity.
+
+
+at the bottom of the table , there  should be a calculation of subtotal , tax  and grand total
+tax should be  20% of the subtotal 
+
+
+
+## task number 1 
+
+input field for user 
+- Name 
+- email
+- phone number 
+- address 
